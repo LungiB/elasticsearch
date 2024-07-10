@@ -239,7 +239,7 @@ testing with your own data and queries].
 [[disaster-ccr]]
 ==== In case of disaster
 
-A cluster's nodes need good, reliable connections to each other. To provide
+A cluster's nodes need good and reliable connections to each other. To provide
 better connections, you typically co-locate the nodes in the same data center or
 nearby data centers. However, to maintain high availability, you
 also need to avoid any single point of failure. In the event of a major outage
